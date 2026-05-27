@@ -90,6 +90,14 @@ This captures procurement planning efficiency.
 
 ---
 
+# 📊 Local Prediction Interpretation
+
+The waterfall plot below explains how individual features contributed toward the final shipment cost prediction.
+
+![SHAP Waterfall Plot](images/shap_waterfall_plot.png)
+
+---
+
 # 🤖 Model Used
 
 ## XGBoost Regressor
